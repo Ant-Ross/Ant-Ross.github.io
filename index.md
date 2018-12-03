@@ -5,7 +5,7 @@ related to Data Analytics and Society. My main interests are related to transpor
 My research is entitled *Integrating data and simulation towards a mobility services decision support system* where I will be working along with [Transport for Greater Manchester](https://www.tfgm.com/). 
 
 I hold a masters degree in Transport Planning and the Environment by the University of Leeds and a bachelor's degree in
-Logistics and Supply Chain Engineering by the Universidad del Caribe. My interests include:
+Logistics and Supply Chain Engineering by the Universidad del Caribe in Mexico. My interests include:
 
 * Public transport
 * Urban planning
