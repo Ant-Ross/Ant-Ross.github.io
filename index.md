@@ -1,4 +1,4 @@
-## Welcome to my website!
+## About me
 
 I am a current PhD researcher at the University of Manchester. I am part of a cohort of students enrolled in the CDT programme 
 related to Data Analytics and Society. My main interests are related to transport and urban planning.
