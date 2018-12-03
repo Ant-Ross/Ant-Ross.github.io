@@ -1,6 +1,6 @@
 ## About me
 
-![GitHub Logo](/images/rail_card_.JPG)
+![GitHub Logo](/images/rail_card_photo.JPG)
 Format: ![Alt Text](url)
 
 I am a current PhD researcher at the [University of Manchester](https://www.manchester.ac.uk/). I am part of a cohort of students enrolled in the CDT programme in *Data Analytics and Society*. My main interests are related to transport and urban planning.
