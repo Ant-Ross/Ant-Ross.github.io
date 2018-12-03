@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to my website!
 
-You can use the [editor on GitHub](https://github.com/Ant-Ross/Ant-Ross.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a current PhD researcher at the University of Manchester. I am part of a cohort of students enrolled in the CDT programme 
+related to Data Analytics and Society. I am interested in topics related to transport and urban planning.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
