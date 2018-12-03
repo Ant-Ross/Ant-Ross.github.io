@@ -8,6 +8,6 @@ Logistics and Supply Chain Engineering by the Universidad del Caribe in Mexico. 
 
 * Public transport
 * Urban planning
-* Big data and programming
+* Big data and coding
 * Optimisation
 
