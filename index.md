@@ -12,6 +12,8 @@ Logistics and Supply Chain Engineering by the Universidad del Caribe in Mexico. 
 * Optimisation
 
 
-If you would like to know more about my academic and professional background you can take a look at my [CV](https://ant-ross.github.io/CV).
+If you would like to know more about my academic and professional background you can take a look at my **[CV](https://ant-ross.github.io/CV)**.
 
-[Here](https://ant-ross.github.io/ABM) you can take a look at an **Agent-Based Model** I built as part of my Data Analytics training in Python.
+### Projects
+
+**[Here](https://ant-ross.github.io/ABM)** you can take a look at an **Agent-Based Model** I built as part of my Data Analytics training in Python.
