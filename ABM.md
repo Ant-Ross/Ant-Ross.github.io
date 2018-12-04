@@ -1,5 +1,5 @@
 ## Agent-Based Model
-###_Hungry like the Wolf_
+### _Hungry like the Wolf_
 
 The model has the purpose of creating two different types of agents: **sheep** and **wolves**. Once created, the sheep will wander through an environment that contains "food". In addition to moving, they have two more functions: _eating_ and _sharing_ units with other sheep when they come close to a certain and predefined distance.
 
