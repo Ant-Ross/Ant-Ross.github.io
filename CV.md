@@ -1,6 +1,7 @@
 # CV
 
-* **Masters in Transport PLanning and the Environment** _The University of Leeds_
+* **Masters in Transport Planning and the Environment** 
+	_The University of Leeds_
 
 I have a background on Logistics and Supply Chain and worked for two years coordinating air and maritime international 
 transport. on 2017 I graduated from the Transport Planning and the Environment master’s programme in the Institute for 
