@@ -26,7 +26,7 @@ As mentioned before, sheep will move around the environment and their speed will
         else:
             self.x = (self.x - 1 - int(0.005 * self.store)) % 300
 ```
-_Eating_ and _sharing_ resources are important behaviours for our sheep. This will allow them to store food —and thus be harder to hunt— as well as colaborate with other colleagues by equally dividing the sum of both of their food. Sheep will eat 10 units of food provided that there are more than 10 units of food in the position where tey are standing; otherwise they will whatever that is left.
+_Eating_ and _sharing_ resources are important behaviours for our sheep. This will allow them to store food —and thus be harder to hunt— as well as colaborate with other colleagues by equally dividing the sum of both of their food. Sheep will eat 10 units of food provided that there are more than 10 units of food in the position where they are "standing"; otherwise they eat will whatever is left in their current position.
 ```python
 def eat(self): 
         if self.environment[self.y][self.x] > 10:
