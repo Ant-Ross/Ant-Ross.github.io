@@ -22,4 +22,4 @@ If you would like to know more about my academic and professional background you
 
 
 
-![University of Manchester](/images/UoM.gif)
+![University of Manchester](/images/UoM.jpg)
