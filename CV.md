@@ -1,4 +1,4 @@
-## CV
+## About me
 
 ### Masters in Transport Planning and the Environment
 _The University of Leeds_
