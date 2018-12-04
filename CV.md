@@ -1,12 +1,12 @@
 ## CV
 
-I am a current PhD researcher at the [University of Manchester](https://www.manchester.ac.uk/). I am part of a cohort of students enrolled in the CDT programme in *Data Analytics and Society*. My main interests are related to transport and urban planning.
-My research is entitled **Integrating data and simulation towards a mobility services decision support system** where I will be working along with [Transport for Greater Manchester](https://www.tfgm.com/). 
-
-I hold a masters degree in Transport Planning and the Environment by the University of Leeds and a bachelor's degree in
-Logistics and Supply Chain Engineering by the Universidad del Caribe in Mexico. My interests include:
-
-* Public transport
-* Urban planning
-* Big data and coding
-* Optimisation
+I have a background on Logistics and Supply Chain and worked for two years coordinating air and maritime international 
+transport. on 2017 I graduated from the Transport Planning and the Environment master’s programme in the Institute for 
+Transport Studies at Leeds where I was awarded with the AECOM prize for the best performing student of his programme.
+	
+During my masters I studied topics related to emissions, pollution levels, street canyons and alternative modes of transport.
+His master’s studies also gave him the opportunity of working on a proposal for the redevelopment of the Leeds City Square and to 
+research on Travel Time Reliability for Transport for London.
+	
+My main interests focus on sustainable transport, transport accessibility, spatial analysis and modal shift including active modes
+of transport.
