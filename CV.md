@@ -16,7 +16,7 @@ _Universidad del Caribe_
 
 My final project was entitled _An optimization model for the location of biodecontamination equipment in the Mexican southeast_. A mathematical model was developed as a way of minimising the total transport costs from specialized equipment by the generation of customer clusters and optimal routes.
 
-## Professional experience
+### Professional experience
 
 **Assistant Consultant** │
 _Steer_ ● _January 2017 - July 2017_
