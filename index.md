@@ -12,4 +12,4 @@ Logistics and Supply Chain Engineering by the Universidad del Caribe in Mexico. 
 * Optimisation
 
 
-###  ##[CV](https://ant-ross.github.io/CV)
+### [CV](https://ant-ross.github.io/CV)
