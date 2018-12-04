@@ -21,4 +21,10 @@ My final project was entitled _An optimization model for the location of biodeco
 **Assistant Consultant** │
 _Steer_ ● _January 2017 - July 2017_
 
+Located at the Mexico city office, I was involved in different transport projects including infrastructure, highways, mobility plans, electromobility and public transport. Namely helping with cleaning and processing data from traffic counts, OD matrices, GIS analysis and research.
+
+**International Shipments Coordinator**
+_DLK International Business_ ● _October 2014 - September 2016
+
+In this position my responsibilities were linked to coordinating air and maritime shipments and the supervision of customs clearance for different import and export projects.
 
