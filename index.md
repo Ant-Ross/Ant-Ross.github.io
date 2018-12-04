@@ -17,3 +17,5 @@ If you would like to know more about my academic and professional background you
 ### Projects
 
 **[Here](https://ant-ross.github.io/ABM)** you can take a look at an **Agent-Based Model** I built as part of my Data Analytics training in Python.
+
+![University of Manchester](/images/UoM.png)
