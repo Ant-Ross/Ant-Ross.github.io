@@ -19,6 +19,6 @@ My final project was entitled _An optimization model for the location of biodeco
 ## Professional experience
 
 **Assistant Consultant** │
-_Steer_ ● _January 2017 - July 2017
+_Steer_ ● _January 2017 - July 2017_
 
 
