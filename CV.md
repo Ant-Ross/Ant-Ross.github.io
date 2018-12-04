@@ -8,9 +8,6 @@ In 2017 I graduated from the Transport Planning and the Environment master’s p
 Transport Studies at Leeds. During my masters I studied topics related to emissions, pollution levels, street canyons and alternative modes of transport.
 My dissertation research was entitled _Measuring Travel Time Reliability under Disruption Conditions for the London Underground_.
 	
-My main interests focus on sustainable transport, transport accessibility, spatial analysis and modal shift including active modes
-of transport.
-
 **Bachelors in Logistics and Supply Chain** │ 
 _Universidad del Caribe_
 
