@@ -14,7 +14,7 @@ num_of_iterations = 10
 neighbourhood = 20
 scope = 10
 ```
-As mentioned before, sheep will move around the environment and their speed will depend on how much food they have stored. In this example, they move 1 unit plus the 0.5% of what they have eaten so far. We don't want them to be extremely fast! although this could be changed if needed.
+As mentioned before, sheep will move around the environment and their speed will depend on how much food they have stored. In this example, they move **1 unit plus the 0.5%** of what they have eaten so far. We don't want them to be extremely fast! although this could be changed if needed.
 
 ```python
  def move(self):
