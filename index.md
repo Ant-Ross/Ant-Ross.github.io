@@ -1,4 +1,4 @@
-## About me   ## [CV](https://ant-ross.github.io/CV)
+## About me   ##[CV](https://ant-ross.github.io/CV)
 
 I am a current PhD researcher at the [University of Manchester](https://www.manchester.ac.uk/). I am part of a cohort of students enrolled in the CDT programme in *Data Analytics and Society*. My main interests are related to transport and urban planning.
 My research is entitled **Integrating data and simulation towards a mobility services decision support system** where I will be working along with [Transport for Greater Manchester](https://www.tfgm.com/). 
