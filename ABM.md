@@ -46,4 +46,15 @@ def eat(self):
                     self.store = ave
                     i.store = ave
 ```
- 
+Wolves share the _move_ function with the sheep with the difference that their behaviour does not depend on food; instead they can only move 2 units per iteration. They also have a unique function called _hunt_ with which they are able to delete agents from the environment if they are within their _scope_.
+```python
+def hunt(self, agents_list):
+        for i in agents_list:
+            distance = self.distance_between(i) 
+            if distance <= self.scope:
+               agents_list.remove(i)
+```
+Below you can see a snapshot of the model. Wolves are represented by dark circles and sheep by yellow stars.
+
+The model can be accessed through my repository by clicking in here where the agents framework and the model itself can be found. Just note the quantitity of sheep and wolves you use, if there are way more sheep than wolves the model can take a while stop and in that case you might want to get yourself a cuppa and enjoy the model.
+
