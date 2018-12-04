@@ -57,5 +57,5 @@ def hunt(self, agents_list):
 Below you can see a snapshot of the model. Wolves are represented by dark circles and sheep by yellow stars.
 ![Model Snapshot](/images/model_photo.jpg)
 
-The model can be accessed through my repository by clicking in here where the agents framework and the model itself can be found. Just note the quantitity of sheep and wolves you use, if there are way more sheep than wolves the model can take a while stop and in that case you might want to get yourself a cuppa and enjoy the model.
+The model can be accessed through my repository by clicking [here](https://github.com/Ant-Ross/Programming-for-Social-Sciences/tree/master/Python_exercise/Final_model). Just note the quantitity of sheep and wolves you use, if there are way more sheep than wolves the model can take a while stop and in that case you might want to get yourself a cuppa and enjoy the model.
 
